@@ -1,0 +1,17 @@
+{
+  "name": "Pexiora - Gestion par Table TEST",
+  "short_name": "TABLES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#174a9c",
+  "icons": [
+    {
+      "src": "tables.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
